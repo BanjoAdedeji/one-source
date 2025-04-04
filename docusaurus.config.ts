@@ -10,7 +10,7 @@ const config: Config = {
   favicon: '/img/gs1logo.png',
 
   // Set the production url of your site here
-  url: 'BanjoAdedeji.github.io',
+  url: 'url: 'https://BanjoAdedeji.github.io',',
   // Set the /<baseUrl>/ pathname under which your site is served
   baseUrl: '/GS1-User-Guide/',
 
