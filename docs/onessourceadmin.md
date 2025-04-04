@@ -23,19 +23,20 @@ Various department make use of the app so that means for every dept there are va
 - How to access the OneSource Admin Portal: you login via the website urlNavigate to the [OneSource Admin](https://onesourceadminportal.gs1ng.org/login).
 - As a new new user you will be required to Signup with a valid email and a strong password.
 
-<img class="center-image" src="/signup.png" alt="Click Here"></img>
+<!-- <img class="center-image" src="/signup.png" alt="Click Here"></img> -->
+![Contact info](/signup.png)
 
 - After clicking on the sign up button you are taken to were you will enter your details.
 
-<!-- ![Home page](/signup2.png) -->
-<img class="center-image" src="/signup2.png" alt="Click Here"></img>
+![Home page](/signup2.png)
+<!-- <img class="center-image" src="/signup2.png" alt="Click Here"></img> -->
 
 Once you are done click on **Register** then wait till the admin approves you.
 
 - Login into the **admin dashboard** by entering your credentials(i.e your credentials is the email and password which you registered with earlier.)
 
-<!-- ![Home page](/loginpagead.png) -->
-<img class="center-image" src="/loginpagead.png" alt="Click Here"></img>
+![Home page](/loginpagead.png)
+<!-- <img class="center-image" src="/loginpagead.png" alt="Click Here"></img> -->
 
 
 ### 3. Dashboard Breakdown.
@@ -43,8 +44,8 @@ Once you are done click on **Register** then wait till the admin approves you.
 
 - After you login onto the platform you see
 
-<!-- ![Home page](/adminpage.png) -->
-<img class="center-image" src="/adminpage.png" alt="Click Here"></img>
+![Home page](/adminpage.png)
+<!-- <img class="center-image" src="/adminpage.png" alt="Click Here"></img> -->
 - Here you can perform various administrative tasks.
 
 
@@ -57,13 +58,13 @@ Once you are done click on **Register** then wait till the admin approves you.
   - Expected Renewal Amount.
   - Paid Renewal Amount.
 
-<!-- ![Landing page](/landingpage.png) -->
-<img class="center-image" src="/landingpage.png" alt="Click Here"></img>
+![Landing page](/landingpage.png)
+<!-- <img class="center-image" src="/landingpage.png" alt="Click Here"></img> -->
 
 - To the left we notice the sidebar menu which shows four distinct dropdown.
 
-<!-- ![Landing page](/sidebar.png) -->
-<img class="center-image" src="/sidebar.png" alt="Click Here"></img>
+![Landing page](/sidebar.png)
+<!-- <img class="center-image" src="/sidebar.png" alt="Click Here"></img> -->
 
 - **Registration**
   - Registration is concenred with new members, their requests and their documents that was submitted during registration.
@@ -74,8 +75,8 @@ Once you are done click on **Register** then wait till the admin approves you.
     - Registration Document.
     - Deleted Application.
 
-<!-- ![Landing page](/registrationsidebar.png) -->
-<img class="center-image" src="/registrationsidebar.png" alt="Click Here"></img>
+![Landing page](/registrationsidebar.png)
+<!-- <img class="center-image" src="/registrationsidebar.png" alt="Click Here"></img> -->
 - **Membership Manager**
   - Membership manager is used to manage already approved members of GS1 NG.
     - Approved List.
@@ -85,11 +86,11 @@ Once you are done click on **Register** then wait till the admin approves you.
     - Renewal Entry.
     - Renewal Invoicing
 
-  <!-- ![Landing page](/mm.png) -->
-<img class="center-image" src="/mm.png" alt="Click Here"></img>
+  ![Landing page](/mm.png)
+<!-- <img class="center-image" src="/mm.png" alt="Click Here"></img> -->
 - **Management Settings**
  - Management setting is used to manage user access control on OneSource Admin platform.\
   - Manage users
 
-<!-- ![Landing page](/ms.png) -->
-<img class="center-image" src="/ms.png" alt="Click Here"></img>
+![Landing page](/ms.png)
+<!-- <img class="center-image" src="/ms.png" alt="Click Here"></img> -->

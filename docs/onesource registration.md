@@ -3,7 +3,7 @@ id: registration-guide
 title: Registration Guide
 --- 
 
- Welcome  to the GS1 Nigeria registration walkthrough. Follow these steps carefully to complete your registration successfully.  
+ Welcomea  to the GS1 Nigeria registration walkthrough. Follow these steps carefully to complete your registration successfully.  
 
 ---
 
@@ -14,30 +14,30 @@ title: Registration Guide
 - Navigate to the [GS1 Nigeria website](https://gs1ng.org).  
 - Click on **"Get a Barcode"** 
 
-<!-- ![Home page](/getbarcode.jpg) -->
-<img class="center-image" src="/getbarcode.jpg" alt="Click Here"></img>
+![Home page](/getbarcode.jpg)
+
 
 you then see a tab with some useful information, make sure you read through before click on the cancel icon after you are done reading the 
 content you then proceed to scroll down.
 - Click the **"Click Here"** button to proceed.
  
-<!-- ![alt text](/clickhere.png) -->
-<img class="center-image" src="/clickhere.png" alt="Click Here"></img>
+![alt text](/clickhere.png)
+
 
 ---
 
 ###  Step 2: Terms and Conditions 
 - Read the **terms and condition** then click the check button
-<!-- ![email](/checkbox.jpg)  -->
-<img class="center-image" src="/checkbox.jpg" alt="Click Here"></img>
+![email](/checkbox.jpg) 
+
 ---
-<!-- ![email](/email.png)  -->
-<img class="center-image" src="/email.png" alt="Click Here"></img>
+![email](/email.png) 
+
 - Enter a **valid email address** in the provided field.  
 - Check your email inbox for an **access code** and copy itt.  
 - Paste the access code into the designated field to continue.  
 
-<!-- ![terms and condition](/checkbox.jpg) -->
+![terms and condition](/checkbox.jpg)
 
 ---
 
@@ -46,8 +46,8 @@ content you then proceed to scroll down.
 - Missing any mandatory fields will prevent you from progressing.  
 - Click **Submit Company Information** once done. 
 
-<!-- ![Company Info](/Gs1.svg) -->
-<img class="center-image" src="/companydetails.png" alt="Click Here"></img>
+![Company Info](/companydetails.png)
+<!-- <img class="center-image" src="/companydetails.png" alt="Click Here"></img> -->
 
 ---
 
@@ -55,35 +55,37 @@ content you then proceed to scroll down.
 - Enter your **complete contact details**.  
 - Ensure all fields are filled, or you won’t be able to proceed.  
 
-<!-- ![Contact info](/Gs1.svg) -->
-<img class="center-image" src="/contactdetails.png" alt="Click Here"></img>
+![Contact info](/contactdetails.png)
+<!-- <img class="center-image" src="/contactdetails.png" alt="Click Here"></img> -->
 ---
 
 ###  Step 5: Select sector
 - Here you are to pick a suitable sector which falls in line with your company services.
-
-<img class="center-image" src="/sector.png" alt="Click Here"></img>
+![Contact info](/sector.png)
+<!-- <img class="center-image" src="/sector.png" alt="Click Here"></img> -->
 
 - After you have picked a suitable sector you are to scroll down and click on next.
 - You are then prompted to choose a sub-sector or more depending on your company.The sub-sector is a dropdown which allows you to scroll through different options to see what best suits you.
-
-<img class="center-image" src="/subsector.png" alt="Click Here"></img>
+![Contact info](/subsector.png)
+<!-- <img class="center-image" src="/subsector.png" alt="Click Here"></img> -->
 ---
 
 ###  Step 6: Select service option
 - You are to select whichever of our Global standards you need.
 
-<img class="center-image" src="/serviceoption.png" alt="Click Here"></img>
-
+<!-- <img class="center-image" src="/serviceoption.png" alt="Click Here"></img> -->
+![Contact info](/serviceoption.png)
 - You are then taken to where you  select the ranges of our standards you need(for GTINs as they are in ranges) for any other service you pick them individually.
 
-<img class="center-image" src="/gtinrange.png" alt="Click Here"></img>
+<!-- <img class="center-image" src="/gtinrange.png" alt="Click Here"></img> -->
+![Contact info](/gtinrange.png)
 ---
 
 ###   Step 7: Summary
 - You are now able to a quick summary of all the information you entered do note you can't edit from the summary page to edit just click the previous button to take you back so you can make your corrections.
 
-<img class="center-image" src="/summary.png" alt="Click Here"></img>
+<!-- <img class="center-image" src="/summary.png" alt="Click Here"></img> -->
+![Contact info](/summary.png)
 
 ---
 

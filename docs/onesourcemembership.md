@@ -13,7 +13,10 @@ title: One Source Membership Guide
 - Open your preferred web browser.  
 - Navigate to the [GS1 Nigeria Memebership Website](https://membershipportal.gs1ng.org/).  
 - Enter your **credentials** which was sent to you via mail..  
-<img class="center-image" src="/mmlogin.png" alt="Click Here"></img>
+<!-- <img class="center-image" src="/mmlogin.png" alt="Click Here"></img> -->
+
+![Contact info](/mmlogin.png)
+
 - You will be directed to the home page.
  
 ---
@@ -21,10 +24,10 @@ title: One Source Membership Guide
 ###  Step 2: Home page.
 Once logged in, you will see your **dashboard**, which provides a quick summary of your inventory and activities with **GS1 Nigeria**.
 
-<img class="center-image" src="/mmdashboard.jpg" alt="Click Here"></img>
-<!-- <a href="/img/mmdashboard.jpg" target="_blank">
-  <img src="/img/mmdashboard.jpg" alt="Example Image" width="300px" />
-</a> -->
+<!-- <img class="center-image" src="/mmdashboard.jpg" alt="Click Here"></img> -->
+
+![Contact info](/mmdashboard.jpg)
+
 
 
 
