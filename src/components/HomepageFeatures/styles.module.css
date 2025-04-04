@@ -1,0 +1,26 @@
+.featuresRow {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap; /* Ensures responsiveness */
+}
+
+.featureCard {
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  width: 300px; /* Adjust width as needed */
+  transition: transform 0.2s ease-in-out;
+}
+
+.featureCard:hover {
+  transform: scale(1.05);
+}
+
+.featureSvg {
+  height: 100px;
+  width: auto;
+  margin-bottom: 15px;
+}

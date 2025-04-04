@@ -1,0 +1,111 @@
+/* Custom Styles for OneSource Admin Guide - Dark Mode Optimized */
+html[data-theme='dark'] {
+  /* Dark Mode Color Palette */
+  --gs1-dark-blue: #1e3a8a;
+  --gs1-light-blue: #3b82f6;
+  --gs1-orange: #f57c00;
+  --gs1-background: #121212;
+  --gs1-text-primary: #e0e0e0;
+  --gs1-text-secondary: #b0b0b0;
+  --gs1-card-background: #1e1e1e;
+}
+
+/* Global Styling */
+body {
+  font-family: 'Inter', 'Arial', sans-serif;
+  background-color: var(--gs1-background);
+  color: var(--gs1-text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Heading Styling */
+html[data-theme='dark'] h1 {
+  color: var(--gs1-light-blue);
+  font-weight: bold;
+  text-align: center;
+}
+
+html[data-theme='dark'] h2 {
+  color: var(--gs1-text-primary);
+  border-bottom: 2px solid var(--gs1-orange);
+  padding-bottom: 5px;
+  margin-top: 20px;
+}
+
+html[data-theme='dark'] h3 {
+  color: var(--gs1-light-blue);
+  font-weight: bold;
+}
+
+/* Paragraph Styling */
+html[data-theme='dark'] p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: var(--gs1-text-secondary);
+}
+
+/* Navbar Styling */
+html[data-theme='dark'] .navbar__title {
+  color: var(--gs1-light-blue);
+  font-weight: bold;
+}
+
+html[data-theme='dark'] .navbar__link {
+  color: var(--gs1-text-primary);
+}
+
+/* Admonition (Callout Box) Styling */
+html[data-theme='dark'] .admonition {
+  background-color: var(--gs1-card-background);
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+  padding: 15px;
+  border-left: 5px solid var(--gs1-light-blue);
+}
+
+/* Image Styling */
+html[data-theme='dark'] img {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  filter: brightness(0.9);
+}
+
+/* Button Styling */
+html[data-theme='dark'] .button--primary {
+  background-color: var(--gs1-dark-blue);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+html[data-theme='dark'] .button--primary:hover {
+  background-color: var(--gs1-light-blue);
+}
+
+/* Code Block Styling */
+html[data-theme='dark'] code {
+  background-color: #2c2c2c;
+  color: #e0e0e0;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* Link Styling */
+html[data-theme='dark'] a {
+  color: var(--gs1-light-blue);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+html[data-theme='dark'] a:hover {
+  color: var(--gs1-orange);
+  text-decoration: underline;
+}
+.center-image {
+  display: block;
+  margin: 0 auto;
+}
